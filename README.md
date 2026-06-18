@@ -32,7 +32,7 @@ This repository will be updated regularly with all internship tasks and projects
 | Project No. | Project Title | Status |
 |---|---|---|
 | Project 1 | Personalized Learning Recommendation System | Completed |
-| Project 2 | Upcoming ML Project | Coming Soon |
+| Project 2 | Credit Risk Default Prediction | Completed |
 | Project 3 | Upcoming ML Project | Coming Soon |
 
 ---
@@ -81,7 +81,22 @@ Innovexa_Catalyst/
 │   └── README.md
 │
 ├── Project-2/
-│   └── Coming Soon
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── project_synopsis.md
+│   └── credit_risk_default_prediction.ipynb
+│   ├── data/
+│   ├── application.csv
+│   ├── bureau.csv
+│   ├── credit_card.csv
+│   ├── payments.csv
+│   ├── previous_loans.csv
+│   ├── test.csv
+│   └── train_labels.csv
+│   ├── src/
+│   ├── train_model.py
+│   └── utils.py
+│   └── outputs/
 │
 ├── Project-3/
 │   └── Coming Soon
