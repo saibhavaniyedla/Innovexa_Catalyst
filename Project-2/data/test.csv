@@ -1,0 +1,251 @@
+id,age,gender,education,employment_type,annual_income,loan_amount,loan_term,purpose,home_ownership,dependents
+200001,58,Female,Diploma,Salaried,1292949,593044,12,Home,Owned,0
+200002,59,Male,Post Graduate,Salaried,710992,297652,12,Business,Rented,1
+200003,53,Female,Post Graduate,Business,1268712,301227,48,Vehicle,Mortgaged,3
+200004,53,Male,Diploma,Business,227361,378477,60,Home,Mortgaged,1
+200005,49,Male,High School,Business,1025279,516961,48,Vehicle,Mortgaged,1
+200006,25,Female,Graduate,Salaried,322513,549755,24,Education,Rented,3
+200007,26,Female,Post Graduate,Business,1609626,754666,36,Personal,Mortgaged,0
+200008,51,Male,Diploma,Salaried,194677,726706,60,Business,Rented,3
+200009,36,Female,Graduate,Salaried,1492588,949993,24,Home,Owned,4
+200010,51,Male,Diploma,Salaried,1557984,864456,48,Business,Owned,3
+200011,45,Male,Diploma,Salaried,251939,800310,36,Business,Mortgaged,2
+200012,53,Male,Diploma,Salaried,1506452,561984,24,Business,Owned,4
+200013,33,Female,High School,Salaried,591742,484034,36,Home,Owned,1
+200014,30,Female,High School,Salaried,939848,580235,24,Home,Mortgaged,4
+200015,44,Male,Diploma,Salaried,988826,529456,48,Business,Owned,0
+200016,30,Male,Post Graduate,Unemployed,1589277,177192,36,Personal,Mortgaged,0
+200017,61,Female,Graduate,Self-employed,1363750,831879,24,Vehicle,Mortgaged,3
+200018,51,Male,Post Graduate,Salaried,675062,930670,48,Business,Owned,4
+200019,33,Male,High School,Salaried,1772023,379572,60,Education,Owned,1
+200020,23,Female,Graduate,Self-employed,302366,997258,48,Business,Owned,0
+200021,54,Male,Diploma,Salaried,376164,375499,48,Home,Owned,1
+200022,48,Female,Post Graduate,Salaried,972644,501457,60,Vehicle,Owned,2
+200023,39,Male,Post Graduate,Self-employed,1719152,512176,48,Education,Rented,0
+200024,43,Female,Diploma,Business,1003837,966390,60,Vehicle,Owned,3
+200025,52,Female,Post Graduate,Salaried,572776,832780,60,Vehicle,Rented,2
+200026,33,Female,High School,Salaried,1567781,288826,60,Education,Mortgaged,4
+200027,53,Male,Diploma,Salaried,536440,718778,24,Business,Owned,1
+200028,54,Female,Post Graduate,Self-employed,1021618,800782,36,Business,Owned,0
+200029,53,Female,Diploma,Salaried,1141743,805679,24,Business,Owned,2
+200030,25,Female,Graduate,Salaried,1613865,531809,60,Personal,Mortgaged,2
+200031,23,Female,Diploma,Salaried,1735343,236256,36,Business,Rented,0
+200032,27,Female,Post Graduate,Business,714820,972337,36,Education,Rented,4
+200033,44,Female,High School,Self-employed,390126,819606,60,Personal,Owned,4
+200034,42,Male,Diploma,Self-employed,1169516,222905,36,Business,Owned,3
+200035,43,Male,Diploma,Unemployed,1215340,443781,36,Personal,Owned,4
+200036,50,Female,Post Graduate,Salaried,1444927,68402,24,Education,Owned,3
+200037,38,Male,High School,Business,1557260,223917,36,Business,Mortgaged,2
+200038,52,Other,High School,Self-employed,283021,650139,60,Home,Owned,0
+200039,27,Female,Graduate,Salaried,969703,62834,12,Education,Mortgaged,4
+200040,53,Female,Graduate,Unemployed,180209,642138,12,Vehicle,Owned,3
+200041,25,Male,Post Graduate,Unemployed,402071,87180,12,Vehicle,Rented,2
+200042,48,Male,High School,Unemployed,1212345,447099,60,Education,Rented,4
+200043,28,Female,High School,Salaried,986409,683976,12,Vehicle,Owned,1
+200044,35,Female,Graduate,Business,1433790,256659,24,Education,Owned,2
+200045,24,Other,Graduate,Business,1338496,418664,60,Home,Mortgaged,4
+200046,54,Male,Post Graduate,Salaried,1618876,848127,60,Education,Owned,2
+200047,25,Male,High School,Salaried,541732,177135,60,Business,Owned,0
+200048,53,Male,Diploma,Salaried,1559404,204195,36,Business,Owned,0
+200049,25,Female,Graduate,Business,1458720,632769,36,Personal,Rented,0
+200050,58,Male,Post Graduate,Self-employed,1090294,647726,36,Vehicle,Mortgaged,1
+200051,54,Male,High School,Salaried,1496327,685779,48,Vehicle,Rented,0
+200052,46,Male,High School,Salaried,396194,572741,24,Education,Mortgaged,1
+200053,21,Male,Graduate,Salaried,536930,460789,60,Vehicle,Rented,0
+200054,24,Other,Post Graduate,Self-employed,568550,696132,60,Business,Owned,2
+200055,59,Female,Diploma,Salaried,363011,407054,36,Home,Rented,4
+200056,46,Male,Graduate,Business,853954,106494,60,Education,Rented,4
+200057,53,Male,Post Graduate,Self-employed,1680174,455504,60,Vehicle,Mortgaged,0
+200058,53,Male,High School,Unemployed,187399,883410,12,Business,Mortgaged,4
+200059,28,Male,Diploma,Salaried,1742818,429989,60,Personal,Rented,0
+200060,40,Male,Post Graduate,Salaried,1122621,967053,48,Vehicle,Mortgaged,0
+200061,36,Female,Diploma,Salaried,278662,781455,36,Home,Mortgaged,3
+200062,41,Male,Post Graduate,Salaried,1524337,104672,24,Home,Mortgaged,3
+200063,46,Male,Post Graduate,Salaried,842858,636109,24,Vehicle,Mortgaged,3
+200064,43,Male,Post Graduate,Business,952592,920093,12,Vehicle,Mortgaged,1
+200065,38,Female,Post Graduate,Salaried,1096283,119224,24,Business,Rented,3
+200066,51,Female,Diploma,Salaried,553221,925837,24,Vehicle,Mortgaged,0
+200067,62,Female,Graduate,Salaried,1214023,284745,36,Personal,Owned,2
+200068,32,Female,Diploma,Salaried,976060,104796,36,Business,Rented,3
+200069,21,Female,Post Graduate,Business,573545,487922,48,Education,Rented,3
+200070,62,Male,Diploma,Salaried,480763,702842,12,Personal,Rented,2
+200071,29,Female,Diploma,Salaried,1235608,435921,24,Business,Mortgaged,0
+200072,23,Male,Diploma,Self-employed,1528754,316167,48,Business,Owned,1
+200073,46,Male,Post Graduate,Salaried,806946,819646,12,Home,Mortgaged,3
+200074,29,Female,Diploma,Salaried,1087555,787996,24,Business,Rented,2
+200075,62,Male,High School,Salaried,1744458,217807,24,Personal,Rented,0
+200076,36,Female,Post Graduate,Salaried,227850,909391,36,Vehicle,Rented,4
+200077,44,Male,Diploma,Salaried,1757586,613506,60,Personal,Rented,1
+200078,34,Female,High School,Salaried,459916,979717,12,Education,Mortgaged,2
+200079,23,Female,Diploma,Unemployed,528249,544735,24,Business,Owned,2
+200080,54,Other,Graduate,Salaried,614895,565729,12,Business,Owned,2
+200081,53,Female,Diploma,Unemployed,1166275,279766,48,Business,Rented,3
+200082,44,Female,Diploma,Unemployed,184576,864892,48,Business,Owned,4
+200083,29,Female,Graduate,Salaried,1590124,961011,60,Home,Rented,1
+200084,33,Male,Post Graduate,Salaried,614848,901112,24,Home,Rented,0
+200085,22,Male,Graduate,Salaried,1794340,81017,36,Vehicle,Owned,0
+200086,27,Female,Post Graduate,Self-employed,1476868,404182,24,Business,Rented,4
+200087,41,Other,Graduate,Self-employed,1652077,998494,12,Education,Owned,2
+200088,39,Female,Diploma,Self-employed,990586,593803,48,Vehicle,Rented,2
+200089,45,Female,Diploma,Salaried,1641846,473207,12,Business,Owned,2
+200090,42,Female,Post Graduate,Business,1507885,450850,60,Home,Rented,2
+200091,31,Male,Post Graduate,Salaried,194439,258106,48,Education,Owned,2
+200092,53,Male,High School,Salaried,1608931,996881,36,Vehicle,Rented,4
+200093,52,Male,High School,Salaried,1797382,869433,48,Education,Rented,3
+200094,41,Male,Diploma,Salaried,1447699,575679,24,Business,Rented,1
+200095,59,Female,Diploma,Salaried,1779826,770566,24,Personal,Owned,2
+200096,40,Other,High School,Self-employed,943445,683676,48,Education,Mortgaged,3
+200097,28,Female,High School,Unemployed,1528483,354359,60,Education,Rented,0
+200098,62,Male,Post Graduate,Business,296189,654008,24,Home,Rented,4
+200099,57,Male,Graduate,Salaried,1338866,339258,24,Business,Owned,3
+200100,29,Male,Post Graduate,Self-employed,1161598,717242,36,Education,Rented,2
+200101,45,Female,High School,Salaried,985896,949574,48,Business,Rented,2
+200102,45,Male,Diploma,Salaried,1139540,722633,24,Home,Rented,2
+200103,53,Male,High School,Salaried,303980,418350,60,Business,Rented,3
+200104,22,Male,Diploma,Salaried,407021,619935,12,Home,Mortgaged,2
+200105,39,Male,Diploma,Salaried,868630,525881,48,Home,Mortgaged,3
+200106,40,Female,Diploma,Salaried,1270875,770252,36,Vehicle,Rented,2
+200107,62,Male,Diploma,Self-employed,921165,616967,24,Business,Rented,0
+200108,61,Male,Graduate,Business,211541,312571,60,Personal,Rented,0
+200109,62,Male,High School,Salaried,1564265,802312,48,Vehicle,Mortgaged,1
+200110,49,Male,Post Graduate,Business,655759,966101,60,Home,Mortgaged,2
+200111,26,Female,Diploma,Self-employed,927358,640555,60,Personal,Owned,2
+200112,37,Female,Diploma,Salaried,309188,50799,36,Education,Owned,3
+200113,45,Male,Post Graduate,Self-employed,388150,367803,48,Education,Rented,3
+200114,58,Female,Post Graduate,Salaried,656186,537625,24,Vehicle,Rented,2
+200115,24,Male,Diploma,Unemployed,399073,581313,36,Personal,Mortgaged,1
+200116,50,Female,Post Graduate,Self-employed,660620,588769,24,Business,Rented,2
+200117,40,Male,Post Graduate,Business,724444,337555,12,Personal,Rented,3
+200118,23,Male,Graduate,Self-employed,921196,802254,60,Vehicle,Mortgaged,2
+200119,43,Female,Post Graduate,Unemployed,1672273,680216,12,Business,Mortgaged,3
+200120,38,Female,High School,Unemployed,848795,697302,60,Business,Mortgaged,2
+200121,46,Female,High School,Salaried,905010,458177,36,Education,Mortgaged,4
+200122,56,Male,High School,Salaried,881696,464983,24,Personal,Owned,3
+200123,28,Male,Diploma,Salaried,1302207,564111,24,Business,Mortgaged,1
+200124,37,Other,High School,Salaried,1004341,101690,36,Vehicle,Mortgaged,4
+200125,51,Male,Graduate,Salaried,773775,627158,48,Education,Rented,2
+200126,57,Male,High School,Business,1118972,741495,12,Business,Rented,3
+200127,53,Male,Diploma,Salaried,665825,136928,12,Personal,Rented,4
+200128,47,Male,Graduate,Business,489799,571921,24,Education,Owned,1
+200129,24,Male,High School,Unemployed,607557,784158,24,Personal,Mortgaged,3
+200130,42,Female,Graduate,Self-employed,899542,645053,24,Personal,Mortgaged,4
+200131,46,Male,Graduate,Business,1280362,335916,36,Personal,Owned,4
+200132,52,Female,Diploma,Salaried,248304,966849,48,Education,Mortgaged,4
+200133,44,Male,Diploma,Business,545750,855231,12,Business,Rented,0
+200134,55,Male,Graduate,Salaried,1406162,424195,60,Home,Owned,2
+200135,57,Female,High School,Salaried,1655771,704229,36,Business,Mortgaged,3
+200136,52,Female,Diploma,Salaried,664103,73555,12,Education,Owned,3
+200137,27,Female,Graduate,Salaried,235107,928584,48,Home,Owned,3
+200138,53,Female,Post Graduate,Self-employed,702058,439363,36,Home,Mortgaged,4
+200139,51,Male,Post Graduate,Salaried,1473767,986837,12,Home,Rented,2
+200140,32,Female,Diploma,Salaried,530041,447477,36,Vehicle,Mortgaged,1
+200141,31,Female,High School,Business,1301153,431977,12,Education,Mortgaged,3
+200142,44,Male,Post Graduate,Self-employed,919663,905434,12,Vehicle,Rented,2
+200143,28,Female,Post Graduate,Salaried,584062,358697,48,Home,Mortgaged,2
+200144,52,Female,Post Graduate,Self-employed,440933,315232,60,Vehicle,Mortgaged,0
+200145,58,Male,High School,Self-employed,462068,620071,48,Vehicle,Mortgaged,3
+200146,42,Male,High School,Business,1601913,575403,12,Education,Owned,4
+200147,54,Male,Diploma,Salaried,849242,773486,36,Personal,Owned,2
+200148,39,Female,Diploma,Salaried,1184059,122908,48,Vehicle,Owned,2
+200149,40,Male,Post Graduate,Salaried,1229671,643397,60,Vehicle,Mortgaged,1
+200150,34,Male,High School,Salaried,546349,839410,12,Home,Rented,0
+200151,53,Male,Graduate,Business,1208719,421087,48,Home,Owned,2
+200152,30,Female,Post Graduate,Salaried,1766987,59422,48,Home,Rented,2
+200153,36,Female,Diploma,Business,1715460,224698,48,Business,Mortgaged,4
+200154,24,Female,High School,Salaried,901975,663521,48,Vehicle,Owned,4
+200155,47,Male,Diploma,Business,668409,892606,36,Home,Mortgaged,1
+200156,48,Female,Diploma,Salaried,1011710,539572,60,Education,Rented,1
+200157,63,Female,High School,Business,231999,87743,60,Business,Owned,1
+200158,36,Female,Post Graduate,Business,1509064,775821,12,Personal,Owned,4
+200159,53,Male,High School,Business,1790520,500415,24,Vehicle,Owned,4
+200160,39,Male,Post Graduate,Salaried,381587,442432,36,Vehicle,Owned,0
+200161,41,Female,Diploma,Salaried,443356,703288,12,Education,Rented,3
+200162,42,Male,High School,Self-employed,320073,434922,12,Personal,Owned,3
+200163,29,Female,Graduate,Salaried,1307360,603718,48,Personal,Mortgaged,0
+200164,29,Female,Post Graduate,Salaried,1065155,78834,24,Business,Owned,3
+200165,29,Female,Graduate,Salaried,523288,598723,24,Vehicle,Rented,4
+200166,47,Female,Post Graduate,Salaried,735656,137212,36,Home,Owned,3
+200167,37,Female,High School,Salaried,1289736,630085,24,Education,Rented,4
+200168,64,Male,Graduate,Salaried,861214,486770,12,Education,Rented,0
+200169,28,Male,High School,Salaried,452859,628843,24,Education,Mortgaged,1
+200170,36,Male,Post Graduate,Salaried,1703493,135350,24,Education,Owned,0
+200171,38,Female,Post Graduate,Self-employed,763072,64716,60,Home,Owned,3
+200172,53,Male,Post Graduate,Salaried,571337,110261,12,Home,Owned,4
+200173,21,Male,Post Graduate,Salaried,1590364,995032,24,Business,Mortgaged,3
+200174,32,Female,Diploma,Business,1255373,838427,24,Vehicle,Mortgaged,3
+200175,26,Female,Post Graduate,Business,1538293,596702,48,Home,Rented,1
+200176,61,Other,Graduate,Business,1767644,719204,24,Business,Rented,3
+200177,25,Female,Post Graduate,Business,742193,742019,24,Personal,Rented,1
+200178,36,Female,High School,Salaried,1119077,65522,60,Vehicle,Mortgaged,4
+200179,38,Female,Diploma,Self-employed,833939,548665,12,Home,Mortgaged,4
+200180,38,Other,Graduate,Salaried,1786223,441776,36,Personal,Mortgaged,1
+200181,21,Female,Diploma,Self-employed,508206,910466,12,Business,Rented,0
+200182,39,Female,Diploma,Salaried,1534183,878754,48,Home,Mortgaged,4
+200183,28,Female,Diploma,Self-employed,279596,379782,12,Home,Rented,0
+200184,23,Female,High School,Salaried,1061450,937766,24,Personal,Rented,4
+200185,45,Male,Diploma,Salaried,1226072,713884,48,Home,Owned,4
+200186,25,Male,Diploma,Unemployed,854502,605134,12,Education,Owned,2
+200187,60,Male,Post Graduate,Salaried,991536,910075,48,Home,Owned,3
+200188,39,Male,High School,Salaried,188625,689218,36,Vehicle,Rented,3
+200189,38,Male,Graduate,Salaried,1529919,336543,12,Personal,Owned,0
+200190,51,Male,Graduate,Salaried,1611445,780520,24,Vehicle,Owned,3
+200191,53,Male,Graduate,Salaried,589142,273734,48,Business,Owned,0
+200192,38,Female,High School,Business,473362,794027,60,Vehicle,Mortgaged,4
+200193,59,Female,Graduate,Salaried,534060,173182,48,Education,Rented,2
+200194,36,Male,High School,Salaried,1351758,98591,60,Education,Owned,2
+200195,36,Female,Post Graduate,Salaried,1773430,201786,24,Vehicle,Mortgaged,4
+200196,58,Female,Post Graduate,Self-employed,1261781,348021,36,Business,Mortgaged,1
+200197,61,Female,High School,Unemployed,1337660,134106,60,Home,Mortgaged,1
+200198,27,Female,Graduate,Self-employed,209717,652306,36,Education,Owned,3
+200199,34,Male,High School,Self-employed,1073724,411998,48,Vehicle,Mortgaged,0
+200200,63,Male,High School,Business,1122639,214486,24,Vehicle,Rented,2
+200201,45,Male,Diploma,Business,1171993,695120,60,Vehicle,Mortgaged,3
+200202,52,Male,High School,Self-employed,1529282,660864,48,Home,Mortgaged,4
+200203,58,Female,Diploma,Salaried,1690902,784303,12,Personal,Mortgaged,2
+200204,42,Male,Post Graduate,Self-employed,200169,828952,48,Business,Mortgaged,0
+200205,36,Male,Diploma,Salaried,1157362,750828,36,Personal,Rented,0
+200206,49,Male,High School,Self-employed,988036,785062,24,Business,Owned,1
+200207,36,Male,Post Graduate,Unemployed,531814,777468,24,Business,Rented,3
+200208,32,Female,Diploma,Self-employed,556749,142508,48,Vehicle,Rented,4
+200209,37,Female,High School,Unemployed,1579458,358979,12,Education,Owned,2
+200210,57,Male,Post Graduate,Salaried,1622476,768693,36,Vehicle,Mortgaged,0
+200211,47,Male,Diploma,Salaried,832428,616752,48,Home,Owned,2
+200212,45,Male,High School,Salaried,282537,948886,48,Business,Owned,4
+200213,33,Male,High School,Business,815589,728283,24,Education,Rented,2
+200214,28,Female,Graduate,Unemployed,450151,166062,36,Business,Owned,3
+200215,25,Male,Graduate,Self-employed,1081347,903877,12,Business,Mortgaged,1
+200216,32,Female,Diploma,Self-employed,1460280,422598,24,Vehicle,Rented,2
+200217,61,Female,Diploma,Self-employed,1345995,958338,48,Education,Mortgaged,1
+200218,23,Male,Diploma,Business,1532507,672672,24,Education,Rented,4
+200219,55,Male,High School,Unemployed,1016014,772979,24,Business,Mortgaged,1
+200220,53,Other,Diploma,Self-employed,933158,751506,60,Education,Owned,2
+200221,42,Female,High School,Self-employed,972214,372176,24,Education,Owned,2
+200222,64,Female,Diploma,Salaried,771058,425665,24,Vehicle,Owned,0
+200223,29,Female,High School,Self-employed,1459372,952810,36,Personal,Mortgaged,2
+200224,61,Female,High School,Salaried,995636,591428,24,Home,Rented,1
+200225,38,Male,Graduate,Salaried,1770016,314814,12,Personal,Rented,0
+200226,49,Female,Post Graduate,Unemployed,1752730,348663,48,Education,Rented,2
+200227,59,Male,High School,Salaried,628402,618800,36,Business,Owned,2
+200228,47,Female,Diploma,Business,532699,153565,24,Home,Mortgaged,4
+200229,56,Other,Graduate,Salaried,396096,720051,12,Home,Rented,0
+200230,37,Female,Diploma,Salaried,938019,941588,48,Business,Mortgaged,4
+200231,54,Male,Diploma,Salaried,461833,739622,36,Home,Rented,4
+200232,23,Male,High School,Salaried,1715834,235964,12,Business,Owned,4
+200233,25,Female,High School,Salaried,525395,599883,24,Home,Mortgaged,3
+200234,34,Female,Post Graduate,Salaried,1416968,238279,60,Personal,Rented,4
+200235,23,Female,High School,Salaried,1161730,296661,60,Home,Rented,1
+200236,43,Other,High School,Salaried,1597285,214512,36,Vehicle,Rented,2
+200237,59,Female,Post Graduate,Salaried,1701093,320774,12,Business,Rented,3
+200238,50,Male,Diploma,Self-employed,1267288,474466,48,Home,Owned,4
+200239,43,Male,Post Graduate,Salaried,961675,310300,12,Business,Rented,2
+200240,47,Male,Post Graduate,Self-employed,416502,289644,60,Vehicle,Rented,0
+200241,30,Female,Post Graduate,Self-employed,1424925,804108,36,Home,Owned,0
+200242,45,Female,Graduate,Salaried,1540352,943893,24,Home,Rented,2
+200243,33,Female,Diploma,Business,1135535,782878,12,Vehicle,Mortgaged,1
+200244,36,Male,Graduate,Self-employed,1773342,124191,60,Vehicle,Mortgaged,2
+200245,61,Male,Graduate,Self-employed,202551,150591,48,Vehicle,Rented,2
+200246,54,Male,High School,Salaried,1276644,638041,36,Business,Owned,3
+200247,57,Female,Post Graduate,Unemployed,273608,553477,24,Vehicle,Owned,0
+200248,42,Male,Post Graduate,Unemployed,739849,634808,12,Business,Owned,0
+200249,37,Male,Graduate,Salaried,1362540,316152,48,Personal,Rented,4
+200250,43,Male,High School,Salaried,466539,487680,24,Home,Rented,2
