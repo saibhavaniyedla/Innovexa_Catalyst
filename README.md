@@ -135,7 +135,7 @@ Through this internship, I aim to improve my understanding of:
 | Task                | Status      |
 | ------------------- | ----------- |
 | Repository Created  | Completed   |
-| Project 1 Completed | Completed   |
+| Project 1           | Completed   |
 | Project 2           | Completed   |
 | Project 3           | Completed   |
 
