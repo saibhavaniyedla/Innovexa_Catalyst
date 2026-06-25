@@ -99,8 +99,19 @@ Innovexa_Catalyst/
 │   └── outputs/
 │
 ├── Project-3/
-│   └── 
-│
+│   ├── app.py
+│   ├── train_model.py
+│   ├── visualizations.py
+│   ├── requirements.txt
+│   ├── README.md
+│   ├── data/
+│   └── smart_city_traffic_sample.csv
+│   ├── src/
+│   └── features.py
+│   ├── models/
+│   └── traffic_demand_model.pkl
+│   └── reports/
+│       └── model_metrics.txt
 └── README.md
 ````
 
