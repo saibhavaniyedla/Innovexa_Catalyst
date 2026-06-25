@@ -33,7 +33,7 @@ This repository will be updated regularly with all internship tasks and projects
 |---|---|---|
 | Project 1 | Personalized Learning Recommendation System | Completed |
 | Project 2 | Credit Risk Default Prediction | Completed |
-| Project 3 | Upcoming ML Project | Coming Soon |
+| Project 3 | Upcoming ML Project | Completed |
 
 ---
 
@@ -99,7 +99,7 @@ Innovexa_Catalyst/
 │   └── outputs/
 │
 ├── Project-3/
-│   └── Coming Soon
+│   └── 
 │
 └── README.md
 ````
@@ -125,8 +125,8 @@ Through this internship, I aim to improve my understanding of:
 | ------------------- | ----------- |
 | Repository Created  | Completed   |
 | Project 1 Completed | Completed   |
-| Project 2           | Completed |
-| Project 3           | Coming Soon |
+| Project 2           | Completed   |
+| Project 3           | Completed   |
 
 ---
 
