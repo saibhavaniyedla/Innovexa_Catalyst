@@ -54,7 +54,9 @@ Innovexa_Traffic_Demand_Prediction_Project/
 ├── data/
 │   └── smart_city_traffic_sample.csv
 ├── models/
+│   └── traffic_demand_model.pkl
 ├── reports/
+│   └── model_metrics.txt
 └── src/
     └── features.py
 ```
