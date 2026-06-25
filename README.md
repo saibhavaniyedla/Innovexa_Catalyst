@@ -33,7 +33,7 @@ This repository will be updated regularly with all internship tasks and projects
 |---|---|---|
 | Project 1 | Personalized Learning Recommendation System | Completed |
 | Project 2 | Credit Risk Default Prediction | Completed |
-| Project 3 | Upcoming ML Project | Completed |
+| Project 3 | Traffic Demand Prediction using LightGBM & XGBoost | Completed |
 
 ---
 
