@@ -1,0 +1,8 @@
+Traffic Demand Prediction - Model Metrics
+-----------------------------------------
+R2 Score: 0.9276
+RMSE: 220.92
+MAE: 173.20
+MAPE: 5.86%
+
+Model saved at: models/traffic_demand_model.pkl
